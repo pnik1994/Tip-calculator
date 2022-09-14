@@ -1,0 +1,21 @@
+.main1 {
+    text-align: center;
+    border: 1px solid-black;
+    background-color: pink;
+  }
+  .main {
+    margin-top: 30px;
+    margin-left: 300px;
+    text-align: center;
+    height: 8000px;
+    width: 30%;
+    background-color: white;
+  }
+  #head {
+    border: 1px solid-black;
+    background-color: blue;
+  }
+  #calculate {
+    background-color: palevioletred;
+  }
+  
